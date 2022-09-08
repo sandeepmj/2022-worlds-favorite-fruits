@@ -1,3 +1,4 @@
+/* headline styling */
 h1 {
     color:blueviolet;
     font-size: 60px;
@@ -5,6 +6,7 @@ h1 {
     font-weight: 900;
 }
 
+/* subhead styling */
 h2 {
     color: yellow
 }
